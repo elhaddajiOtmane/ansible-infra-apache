@@ -1,0 +1,5 @@
+---
+instance_1_ip: "{{ lookup('env', 'INSTANCE_1_IP') }}"
+instance_2_ip: "{{ lookup('env', 'INSTANCE_2_IP') }}"
+ssh_user: "{{ lookup('env', 'SSH_USER') }}"
+ssh_key: "{{ lookup('env', 'SSH_KEY') }}"

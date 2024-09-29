@@ -1,0 +1,5 @@
+# Ignore private keys
+*.pem
+
+# Ignore other sensitive files
+.env
