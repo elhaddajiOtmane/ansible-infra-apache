@@ -1,0 +1,6 @@
+---
+# Handlers for the common role
+
+- name: Placeholder handler for common role
+  debug:
+    msg: "This is a placeholder handler for the common role."

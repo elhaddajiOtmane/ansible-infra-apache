@@ -1,0 +1,6 @@
+---
+# Handlers for the web role
+
+- name: Placeholder handler for web role
+  debug:
+    msg: "This is a placeholder handler for the web role."
